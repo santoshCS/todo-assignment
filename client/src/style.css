@@ -1,0 +1,9 @@
+
+.search_box {
+ position: absolute;
+ top:11rem;
+ right: 4rem;
+}
+.btn_size{
+    height: 3rem;
+}
