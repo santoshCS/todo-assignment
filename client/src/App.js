@@ -40,7 +40,7 @@ function App() {
             </BrowserRouter>
     <div className="search_box">
             <input className="btn_size" type="text" onChange={handleSearch} />
-            <button className="btn_size"> Search </button>
+            <button className="btn_size src_btn"> Search </button>
             <h3>Pending Todos: {pendingTodos}</h3>
             <h3>Completed Todos: {completedTodos}</h3>
       {filteredTodos.map(todo => 

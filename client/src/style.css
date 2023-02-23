@@ -1,9 +1,15 @@
 
 .search_box {
  position: absolute;
- top:11rem;
- right: 4rem;
+ top:3.5rem;
+ left: 2.5rem;
+ 
+ font-size: 18px;
 }
 .btn_size{
     height: 3rem;
+    padding: 5px;
+}
+.src_btn{
+    padding: 5px;
 }
